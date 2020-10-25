@@ -13,4 +13,4 @@ docker-compose up -d
 A restart policy is configured to automatically restart the container on system errors as well as on host restarts.
 
 ## Note:- 
-If you find this project helpful. Thanks me with a ⭐️.
+If you find this project helpful. Thanks me with a ⭐️
