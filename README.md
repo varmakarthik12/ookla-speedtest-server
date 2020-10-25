@@ -6,7 +6,7 @@ An artifact is publicly available at https://hub.docker.com/r/varmakarthik12/ook
 ## Installing
 
 ```
-wget https://github.com/varmakarthik12/ookla-speedtest-server/blob/main/docker-compose.yml
+wget https://raw.githubusercontent.com/varmakarthik12/ookla-speedtest-server/main/docker-compose.yml
 docker-compose up -d
 ```
 
