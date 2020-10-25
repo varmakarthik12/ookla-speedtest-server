@@ -1,9 +1,9 @@
 # ookla-speedtest-server
-Dockerized one step setup for Ookla speedtest host server. Has webserver built in for legacy http fallback.
+Dockerized one-step setup for the Ookla speed test host server. Has webserver built-in for legacy HTTP fallback.
 
-An artifact is publicly available at https://hub.docker.com/r/varmakarthik12/ookla-speedtest-server. Which means it just need one command to run and setup entire Ookla speedtest server. Along with a Apache webserver & php for http fall back fallback assets.
+An artifact is publicly available at https://hub.docker.com/r/varmakarthik12/ookla-speedtest-server. Which means it just needs one command to run and set up the entire Ookla speed test server. Including  HTTP fallback static assets.
 
-## Installng
+## Installing
 
 ```
 wget https://github.com/varmakarthik12/ookla-speedtest-server/blob/main/docker-compose.yml
@@ -12,5 +12,5 @@ docker-compose up -d
 
 A restart policy is configured to automatically restart the container on system errors as well as on host restarts.
 
-## Note:- 
-If you find this project helpful. Thanks me with a ⭐️
+
+If you find this project helpful. Thank me with a ⭐️ 
